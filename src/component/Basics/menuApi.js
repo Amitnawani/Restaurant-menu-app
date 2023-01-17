@@ -1,0 +1,68 @@
+const menu = [
+    {
+       id: 1,
+       image: "imagess/maggie.jpeg",
+       name: "Maggi",
+       category: "Breakfast",
+       price: "12$",
+       description: "Brand MAGGI has always been an ally for homecooks in everyday cooking This World Diabetes Day, MAGGI in has introduced a brand new section on the website dedicated to a selection of healthy recipes that deliver on taste and nutrition From 1885 he brought nine industrially produced types of legume flour onto the market. At the Swiss Culinary Art Exhibition in Zurich in 1885 he received the First Class Diploma In 1886, the first instant soups based on legume flour and Maggi seasoning followed as competition for the meat extract invented by Justus von Liebig. The first warehouses and branches abroad were founded, including in Singen in Baden in 1887. In order to obtain additional capital for the planned further expansion, the company was converted into a public limited company in 1889 with Julius Maggi as general director. In 1908 Maggi brought the bouillon cube onto the market.Maggi introduced extensive social benefits that were unusual for the time, such as a canteen, workers' housing, company health insurance, widow's and old-age pensions, and in 1906 Saturdays off. In a strike at the Singen plant in 1907, Julius Maggi successfully mediated, accused the management of having lost contact with the workforce and suggested the establishment of a workers' committee  an early form of the works council. In 1912 Maggi Singen signed the first collective agreement in the German food industry Company founder Julius Maggi lived mainly in Paris from 1902 and led the company to great success with new products in France. The sales of pasteurized milk by the Société laitière Maggi amounted to 60 million liters in 1912, and the sales of bouillon cubes with the name KUB amounted to 6 million units a month in 1912..",
+},
+{
+      id: 2,
+      image: "imagess/pakoda.jpeg",
+      name: "Pakoda",
+      category: "Evening",
+      price: "20$",
+      description: "Pakora is a spiced fritter originating from the Indian subcontinent. They are sold by street vendors and served in restaurants in South Asia and UK. It consists of items, often vegetables such as potatoes and onions, coated in seasoned gram flour batter and deep fried.",
+},
+{
+      id: 3,
+      image: "imagess/corn.jpeg",
+      name: "Corn",
+      category: "Breakfast",
+      price: "12$",
+      description: "Corn is a tall annual cereal grass (Zea mays) that is widely grown for its large elongated ears of starchy seeds. The seeds, which are also known as corn, are used as food for humans and livestock and as a source of biofuel and can be processed into a wide range of useful chemicals.",      
+},
+{
+      id: 4,
+      image: "imagess/pizza.jpeg",
+      name: "Pizza",
+      category: "Evening",
+      price: "44$",
+      description: "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot.",
+},
+{
+      id: 5,
+      image: "imagess/veg.jpeg",
+      name: "Veg thali",
+      category: "Dinner",
+      price: "50$",
+      description: "A thali consists of dal or sambar. vegetables: a seasonal preparation. chutney: a condiment made with fruit, herbs, spices, and even vegetables and fish. raita: curds usually mixed with some kind of vegetable. pickles: most commonly made from raw mango, though that varies by region.",
+},
+{
+      id: 6,
+      image: "imagess/samosa.jpeg",
+      name: "Samosa",
+      category: "Evening",
+      price: "4$",
+      description: "Samosa, a crispy and spicy deep fried snack that has an crisp and flaky outer layer made of maida and rich filling of mashed potato, peas and spices is a popular street food of India. It’s a favorite snack among people of all ages and generally served with masala tea and tamarind chutney as afternoon snack.",
+},
+{
+     id: 7,
+     image: "imagess/nonveg.jpeg",
+     name: "Nonveg thali",
+     category: "Dinner",
+     price: "45$",
+     description: "Non-vegetarian food is a term commonly used in India for food that has meat, fish or eggs in it. It is more commonly called non-veg food. Not just for food, it can be used for a person too - a person eating meat is a non-vegetarian in Indian English. Egg too is not classified as vegetarian for Indians. Well, they are called eggitarians.",
+},
+{
+    id: 8,
+    image: "imagess/rajma.jpeg",
+    name: "Rajma",
+    category: "Lunch",
+    price: "30$",
+    description: "Some of the best Rajma is said to be grown in the north Indian states of Himachal Pradesh, Uttarakhand and the Jammu region of Jammu and Kashmir. Rajma Chawal served with chutney of Anardana (Pomegranate) is a famous dish in Peerah, a town in Ramban district of Jammu & Kashmir, and Assar/Baggar in Doda district of Jammu & Kashmir.",
+},
+];
+
+export default menu;
